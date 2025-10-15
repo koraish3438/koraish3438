@@ -10,16 +10,16 @@ Always learning, always building — open to collaboration and new ideas.
 ---
 
 ## 🛠️ Skills & Technologies
-**Languages:** Kotlin . XML. Jetpack Compose. KMP · Dart · Java · Python · C · C++  
-**Frontend:** XML · HTML · CSS · Flutter  
-**Tools:** Android Studio · Firebase · Git · VS Code · Canva
+**Languages:** Kotlin · Dart · Java · Python · C · C++  
+**Frontend:** XML. Jetpack Compose · HTML · CSS · Flutter  
+**Tools:** Android Studio. Intellij Idea · Firebase · Git . Github · VS Code · Canva
 
 ---
 
 ## 🚀 Currently
 - 🔭 **Working on:** Flutter Intern @ DIPTI | Building real-world apps  
 - 🌱 **Learning:** Kotlin (NHDA Certified) + Firebase Integration  
-- 👯 **Collaborating on:** Innovative Flutter & Kotlin mobile apps  
+- 👯 **Collaborating on:** Innovative Flutter & Kotlin mobile apps & KMP 
 - 💬 **Ask me about:** Android / Cross-Platform Development  
 - 📫 **Reach me at:**  
   ✉️ [koraishmdkajamall38@gmail.com](mailto:koraishmdkajamall38@gmail.com)  
