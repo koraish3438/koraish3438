@@ -55,6 +55,9 @@ Always learning, always building — open to collaboration and new ideas.
 <p align="center">
   <img src="https://github.com/koraish3438/koraish3438/blob/2f39a1027cca2af310b2c694da33743cf0092c78/Asset%20certificate.jpg" alt="Certificate" width="600">
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/koraish3438/koraish3438/main/skilljob.jpg" alt="Skill Job Certificate" width="600">
+</p>
 
 ---
 
