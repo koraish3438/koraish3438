@@ -50,10 +50,17 @@ Always learning, always building — open to collaboration and new ideas.
 
 ---
 
+<h3 align="center">🏅 Certificate of Achievement</h3>
+
+<p align="center">
+  <img src="https://github.com/koraish3438/koraish3438/blob/2f39a1027cca2af310b2c694da33743cf0092c78/Asset%20certificate.jpg" alt="Certificate" width="600">
+</p>
+
+---
+
 ## 💡 Fun Fact
 > "First, solve the problem. Then, write the code."
 — John Johnson
 
 ---
-
 ⭐ **_Let’s build something amazing together!_**
