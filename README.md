@@ -51,7 +51,8 @@ Always learning, always building — open to collaboration and new ideas.
 ---
 
 ## 💡 Fun Fact
-> “Code is like humor — when you have to explain it, it’s bad.” 😄
+> "First, solve the problem. Then, write the code."
+— John Johnson
 
 ---
 
