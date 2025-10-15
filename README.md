@@ -5,7 +5,7 @@
 
 Passionate about mobile app development with a growing focus on performance and UI/UX. Working with Kotlin, Flutter, and Firebase to build meaningful apps. Always learning, always building — open to collaboration and new ideas.
 
-Skills: HTML / CSS/ C/ C++/ PYTHON/ JAVA/ KOTLIN/ DART/ FLUTTER
+Skills: KOTLIN | XML | DART | FLUTTER | HTML | CSS | C | C++ | PYTHON | JAVA
 
 - 🔭 I’m currently working on Currently Flutter Intern @ DIPTI | Learning Kotlin + Firebase | Building real apps 
 - 🌱 I’m currently learning Flutter Intern @ DIPTI | Kotlin (NHDA Certified) 
