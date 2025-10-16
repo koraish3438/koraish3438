@@ -1,4 +1,4 @@
-![Mobile Application Developer](https://media.licdn.com/dms/image/v2/D4D16AQHhiVjaqlqt8w/profile-displaybackgroundimage-shrink_350_1400/B4DZk8Vj9GGkAY-/0/1757653913024?e=1760572800&v=beta&t=n2_0tjelCti2ukZ20IqYdFCVLRRyyTKFLj_H8I5qhac)
+![Mobile Application Developer](https://raw.githubusercontent.com/koraish3438/koraish3438/main/_Creating%20meaningful%20mobile%20experiences.png)
 
 # 👋 Hi there, I'm Md. Kajam-all Koraish
 ### 📱 Mobile Application Developer
