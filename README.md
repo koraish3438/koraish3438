@@ -58,6 +58,12 @@ Always learning, always building — open to collaboration and new ideas.
 <p align="center">
   <img src="https://raw.githubusercontent.com/koraish3438/koraish3438/main/skilljob.jpg" alt="Skill Job Certificate" width="600">
 </p>
+<p align="center">
+  <img src="https://github.com/koraish3438/koraish3438/raw/85dbb39d8b11be1f8410ce041994b9d9193e5aee/codeforces.png" width="600">
+</p>
+<p align="center">
+  <img src="https://github.com/koraish3438/koraish3438/raw/85dbb39d8b11be1f8410ce041994b9d9193e5aee/beecorwd.png" width="600">
+</p>
 
 ---
 
