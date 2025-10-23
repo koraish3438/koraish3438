@@ -30,10 +30,11 @@ Always learning, always building — open to collaboration and new ideas.
 ---
 
 ## 🌟 Social Links
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40">](https://github.com/koraish3438)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40">](https://www.linkedin.com/in/koraish3438/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40">](https://www.facebook.com/mdkajamall.koraish)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="40">](https://www.instagram.com/_koraish_/)
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" style="filter: invert(1);">](https://github.com/koraish3438)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" style="filter: invert(1);">](https://www.linkedin.com/in/koraish3438/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40" style="filter: invert(1);">](https://www.facebook.com/mdkajamall.koraish)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="40" style="filter: invert(1);">](https://www.instagram.com/_koraish_/)
 
 ---
 
