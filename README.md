@@ -39,7 +39,8 @@ Always learning, always building — open to collaboration and new ideas.
 ---
 
 ## 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=koraish3438&theme=tokyonight&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=koraish3438&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
